@@ -1,0 +1,6 @@
+D:\C#\ComputerSystems\CS_Lab2\Part3\bin\Debug\Part3.exe.config
+D:\C#\ComputerSystems\CS_Lab2\Part3\bin\Debug\Part3.exe
+D:\C#\ComputerSystems\CS_Lab2\Part3\bin\Debug\Part3.pdb
+D:\C#\ComputerSystems\CS_Lab2\Part3\obj\Debug\Part3.exe
+D:\C#\ComputerSystems\CS_Lab2\Part3\obj\Debug\Part3.pdb
+D:\C#\ComputerSystems\CS_Lab2\Part3\obj\Debug\Part3.csprojAssemblyReference.cache
